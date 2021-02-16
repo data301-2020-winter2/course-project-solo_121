@@ -13,7 +13,7 @@ This data explains the medical cost of small population in the United States. It
 
 ## Describe your dataset in about 150-200 words
 
-Of course, I would like to see which column most affect to the medical cost. Also I am interested in finding how or which column affect to other or lead to unhealthy life. For example, what kind of person tend to smoke or in out og health range of BMI, and test if genders affect these facts. Especially I would like to see if single mothers are experiencing unhealthy habits or unhealthy body mass since it is stressful to take care her kids alone and support them financially. I am more interested in single mothers' health than single fathers health since mothers have to take care of her kids with experience of giving birth which may take time to recover and may have less chance to get a job and income than men do.
+Of course, I would like to see which column most affect to the medical cost. Also I am interested in finding how or which column affect to other or lead to unhealthy life. For example, what kind of person tend to smoke or in out og health range of BMI, and test if genders affect these facts. Especially I would like to see if single mothers are experiencing unhealthy habits or unhealthy body mass since it is stressful to take care her kids alone and support them financially. I am more interested in single mothers' health than single fathers health since mothers have to take care of her kids with experience of giving birth which may take time to recover.
 
 ## Team Members
 
